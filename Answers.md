@@ -9,7 +9,8 @@
 - Update - PUT
 - Delete - DELETE
 1.  Mention three tools we can use to make AJAX requests
- the address bar in your browser
+ 
+-the address bar in your browser
 - an external library like Axios in a React app
 - a standalone application like Postman can be used to make AJAX requests to
   explore an API
